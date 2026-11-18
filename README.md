@@ -36,7 +36,7 @@ I'm not a career software engineer. I'm a designer who finally gets to ship the 
   </tr>
 </table>
 
-More small Mac apps are on the way. ⭐ Star or watch to follow along.
+If one of these makes your day a little better, a ⭐ means a lot.
 
 ### How I build
 
