@@ -24,6 +24,16 @@ I'm not a career software engineer. I'm a designer who finally gets to ship the 
       <a href="https://github.com/myyccccc/PanelRest/stargazers"><img src="https://img.shields.io/github/stars/myyccccc/PanelRest?style=flat&color=f5c518" alt="Stars"></a>
     </td>
   </tr>
+  <tr>
+    <td width="96" valign="top"><a href="https://github.com/myyccccc/Better-Wacom"><img src="assets/better-wacom.png" width="80" alt="Better Wacom"></a></td>
+    <td valign="top">
+      <b><a href="https://github.com/myyccccc/Better-Wacom">Better Wacom</a></b> · macOS · open source<br>
+      Custom ExpressKeys and dials for the Wacom Intuos Pro M (2025, PTK-670).
+      Per-app layouts, long press, smart dials.<br><br>
+      <a href="https://github.com/myyccccc/Better-Wacom/releases/latest"><img src="https://img.shields.io/github/v/release/myyccccc/Better-Wacom?label=download&color=0a84ff" alt="Download"></a>
+      <a href="https://github.com/myyccccc/Better-Wacom/stargazers"><img src="https://img.shields.io/github/stars/myyccccc/Better-Wacom?style=flat&color=f5c518" alt="Stars"></a>
+    </td>
+  </tr>
 </table>
 
 More small Mac apps are on the way. ⭐ Star or watch to follow along.
